@@ -1,5 +1,8 @@
 ## Olá! Me chamo Sofia Job
-**Estudante de Ciência da Informação** | **Interessada por Dados** | 📍Brasil
+> Sim, trabalho é meu nome do meio 💼
+
+**Estudante de Ciência da Informação** | **Interessada por Dados** | 📍 Brasil
+
 
 📫 [sofiafjob@gmail.com](mailto:sofiafjob@gmail.com)
 
@@ -19,6 +22,6 @@ Ainda na UFBA, tive a oportunidade de estudar no **Instituto Confúcio**, onde i
 > loading...
 
 ## 🌐 Idiomas
-- :brazil: Português (nativo)
-- :uk: Inglês (intermediário)
-- :cn: Mandarim (básico)
+- 🇧🇷 Português (nativo)
+- 🇬🇧 Inglês (intermediário)
+- 🇨🇳 Mandarim (básico)
