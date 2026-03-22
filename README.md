@@ -1,5 +1,5 @@
 ## Olá! Me chamo Sofia Job
-> Sim, trabalho é meu nome do meio 💼
+> Sim, trabalho é meu nome do meio! 💼
 
 **Estudante de Ciência da Informação** | **Interessada por Dados** | 📍 Brasil
 
