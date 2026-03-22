@@ -12,8 +12,8 @@ Ainda na UFBA, tive a oportunidade de estudar no **Instituto Confúcio**, onde i
 
 ## 🛠️ Tecnologias
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Power BI (Dashboards, Medidas e ...)
-- SQL (consultas, joins, agregações)
+- Power BI (Dashboards, Power Query, Medidas e Métricas)
+- SQL (Consultas, Joins, Agregações)
 
 ## 📊 Projetos
 > loading...
