@@ -22,6 +22,6 @@ Ainda na UFBA, tive a oportunidade de estudar no **Instituto Confúcio**, onde i
 > loading...
 
 ## 🌐 Idiomas
-- 🇧🇷 Português (nativo)
-- 🇬🇧 Inglês (intermediário)
-- 🇨🇳 Mandarim (básico)
+- Português (nativo)
+- Inglês (intermediário)
+- Mandarim (básico)
