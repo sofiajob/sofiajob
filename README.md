@@ -22,8 +22,3 @@ Ainda na UFBA, tive a oportunidade de estudar no **Instituto Confúcio**, onde i
 ## 📊 Projetos
 - [OLIST (Ecommerce) - Análise Exploratória de Dados + Dashboard Power BI](https://github.com/sofiajob/OLIST-ExploratoryDataAnalysis-Dashboard)
 - > loading...
-
-## 🌐 Idiomas
-- Português (nativo)
-- Inglês (intermediário)
-- Mandarim (básico)
