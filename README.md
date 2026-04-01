@@ -20,5 +20,8 @@ Ainda na UFBA, tive a oportunidade de estudar no **Instituto Confúcio**, onde i
 - SQL (Consultas, Joins, Agregações)
 
 ## 📊 Projetos
-- [OLIST (Ecommerce) - Análise Exploratória de Dados + Dashboard Power BI](https://github.com/sofiajob/OLIST-ExploratoryDataAnalysis-Dashboard)
-- > loading...
+### [OLIST (Ecommerce) - Análise Exploratória de Dados + Dashboard Power BI](https://github.com/sofiajob/OLIST-ExploratoryDataAnalysis-Dashboard)
+  > loading...
+
+## 💡 Para Além da Análise de Dados
+  > loanding...
