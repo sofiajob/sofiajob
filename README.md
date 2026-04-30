@@ -1,27 +1,45 @@
-## Olá! Me chamo Sofia Job
-> Sim, trabalho é meu nome do meio!
+# Olá! Sou Sofia Job
 
-**Estudante de Ciência da Informação** | **Interessada por Dados** | 📍 Brasil
+📊 **Análise de Dados** | EDA, Estatística e Funil de Conversão  
+🎓 Ciência da Informação – UFSC  
+📍 Brasil
 
+📫 sofiafjob@gmail.com
 
-📫 [sofiafjob@gmail.com](mailto:sofiafjob@gmail.com)
+---
 
-## 🎓 Sobre mim
-Sou estudante de **Ciência da Informação** na Universidade Federal de Santa Catarina e estou em busca da minha primeira oportunidade na área de **Análise de Dados**.
-Atualmente estou trabalhando em **projetos pessoais** para fortalecer meu portfólio e aprimorar meus conhecimentos na área.
+## Sobre mim
 
-Minha trajetória começou na **UFBA**, onde cursei três semestres de Ciência e Tecnologia. Lá, tive minha primeira imersão no universo acadêmico e desenvolvi uma base sólida em pensamento analítico e resolução de problemas.
-Ainda na UFBA, tive a oportunidade de estudar no **Instituto Confúcio**, onde iniciei meus estudos em mandarim e entrei em contato com a cultura chinesa, ampliando minha visão sobre como diferentes realidades se organizam e se comunicam. Ao unir essa experiência com meus conhecimentos em análise de dados percebi que, assim como a língua conecta povos, os dados têm o poder de conectar mercados, traduzir contextos e expor padrões culturais. Essa vivência me ensinou a valorizar o contexto por trás dos números e despertou minha curiosidade sobre como a análise de dados pode ser uma ponte entre culturas, negócios e tomadas de decisões globais. Hoje enxergo a área de dados como uma ferramenta de conexão e entendimento entre mundos diferentes.
+Estudo Ciência da Informação na UFSC e entrego análises de dados completas. Meu portfólio tem três projetos reais usando Python, estatística e lógica de funil.
 
+🇨🇳 Estudei mandarim no Instituto Confúcio (UFBA). Ali, ampliei minha visão sobre como diferentes realidades se organizam e se comunicam. Ao unir essa experiência com meus conhecimentos em análise de dados aprendi que assim como a língua conecta povos, os dados têm o poder de conectar mercados, traduzir contextos e expor padrões culturais.
 
-## 🛠️ Tecnologias
-- Python (Pandas, NumPy, Seaborn, Matplotlib)
-- Power BI (Dashboards, Power Query, Medidas e Métricas)
-- SQL (Consultas, Joins, Agregações)
+Essa vivência me ensinou a valorizar o contexto por trás dos números e hoje enxergo a análise de dados como uma ponte entre culturas, negócios e decisões globais.
 
-## 📊 Projetos
-### [OLIST (Ecommerce) - Análise Exploratória de Dados + Dashboard Power BI](https://github.com/sofiajob/OLIST-ExploratoryDataAnalysis-Dashboard)
-  > loading...
+🛠️ **Tecnologias que uso:**
+- Python: Pandas, NumPy, Seaborn, Matplotlib
+- Power BI: Dashboards, Power Query, DAX
+- SQL: Consultas, Joins, Agregações
 
-## 💡 Para Além da Análise de Dados
-  > loanding...
+---
+
+## 📊 Projetos em destaque
+
+### Olist – EDA + Dashboard
+Análise exploratória de 100k+ pedidos respondendo perguntas de negócio (sazonalidade, ticket médio, atrasos por região, top categorias). Dashboard em Power BI.
+> 🔗 [Link em breve]
+
+### [Concluindo esta semana] Pulsares ANFT – Estatística aplicada
+Estudo estatistico de ______
+> 🔗 [Link em breve]
+
+### [Em andamento] Taobao – Funil de conversão e análise temporal 
+Junção de tabelas (clique → compra → pagamento) para identificar gargalos e picos de uso por dispositivo.
+> 🔗 [Link em breve]
+
+---
+
+## 💡 Além dos dados
+
+Projetos interdisciplinares com arte ASCII e mixed media. Minha foto de fundo aqui é uma flor transformada em ASCII.
+> [Em breve]
