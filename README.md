@@ -41,5 +41,5 @@ Junção de tabelas (clique → compra → pagamento) para identificar gargalos 
 
 ## 💡 Além dos dados
 
-Projetos interdisciplinares com arte ASCII e mixed media. Minha foto de fundo aqui é uma flor transformada em ASCII.
+Projetos interdisciplinares com arte ASCII e mixed media. Minha foto de perfil aqui é uma flor transformada em ASCII.
 > [Em breve]
