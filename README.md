@@ -34,7 +34,10 @@ Estudo estatistico de 4.351 pulsares do catálogo ATNF. Investigação da distri
 > 🔗 [Link em breve]
 
 ### [Em andamento] Taobao – Funil de Conversão e Análise Temporal 
-Estudo da taxa de conversão do usuário, junção de tabelas (clique → compra → pagamento) para identificar gargalos e picos de uso.
+Contagem de usuários por etapa (pv → fav → cart → buy) Identificação da taxa de conversão entre etapas e maior ponto de abandono
+identificar padrões de conversão e momentos de maior engajamento
+
+Identificar gargalos e picos de uso.
 > 🔗 [Link em breve]
 
 ---
