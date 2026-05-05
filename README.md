@@ -27,14 +27,14 @@ Essa vivência me ensinou a valorizar o contexto por trás dos números e hoje e
 
 ### Olist – EDA + Dashboard
 Análise exploratória de 100k+ pedidos respondendo perguntas de negócio (sazonalidade, ticket médio, atrasos por região, top categorias). Dashboard em Power BI.
-> 🔗 [Link em breve]
+> 🔗 [OLIST (Ecommerce) - Análise Exploratória de Dados + Dashboard Power BI](https://github.com/sofiajob/OLIST-ExploratoryDataAnalysis-Dashboard)
 
 ### [Concluindo esta semana] Pulsares ANFT – Estatística aplicada
-Estudo estatistico de ______
+Estudo estatistico de 4.351 pulsares do catálogo ATNF. Investigação da distribuição das variaveis e suas relaçoes, com destaque para a identificação de distribuição bimodal, revelando duas populações distintas de pulsares.
 > 🔗 [Link em breve]
 
-### [Em andamento] Taobao – Funil de conversão e análise temporal 
-Junção de tabelas (clique → compra → pagamento) para identificar gargalos e picos de uso por dispositivo.
+### [Em andamento] Taobao – Funil de Conversão e Análise Temporal 
+Estudo da taxa de conversão do usuário, junção de tabelas (clique → compra → pagamento) para identificar gargalos e picos de uso.
 > 🔗 [Link em breve]
 
 ---
