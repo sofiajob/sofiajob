@@ -14,7 +14,7 @@ Estudo Ciência da Informação na UFSC e entrego análises de dados completas. 
 
 🇨🇳 Estudei mandarim no Instituto Confúcio (UFBA). Ali, ampliei minha visão sobre como diferentes realidades se organizam e se comunicam. Ao unir essa experiência com meus conhecimentos em análise de dados aprendi que assim como a língua conecta povos, os dados têm o poder de conectar mercados, traduzir contextos e expor padrões culturais.
 
-Essa vivência me ensinou a valorizar o contexto por trás dos números e hoje enxergo a análise de dados como uma ponte entre culturas, negócios e decisões globais.
+Hoje enxergo a análise de dados como uma ponte entre culturas, negócios e decisões globais.
 
 🛠️ **Tecnologias que uso:**
 - Python: Pandas, NumPy, Seaborn, Matplotlib
