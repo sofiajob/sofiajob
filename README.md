@@ -30,10 +30,3 @@ Contagem de usuários por etapa (pv → fav → cart → buy). Identificação d
 
 ## 🛠️ **Tecnologias:** 
 `Python` (Pandas, NumPy, Matplotlib, Seaborn) | `Power BI` | `SQL`
-
----
-
-## Além dos dados
-
-Portifólio interdisciplinar | arte digital e mixed media.   
-> 🔗 [Link em breve]
