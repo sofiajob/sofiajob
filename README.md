@@ -29,7 +29,7 @@ Hoje enxergo a análise de dados como uma ponte entre culturas, negócios e deci
 Análise exploratória de 100k+ pedidos respondendo perguntas de negócio (sazonalidade, ticket médio, atrasos por região, top categorias). Dashboard em Power BI.
 > 🔗 [OLIST (Ecommerce) - Análise Exploratória de Dados + Dashboard Power BI](https://github.com/sofiajob/OLIST-ExploratoryDataAnalysis-Dashboard)
 
-### [Concluindo esta semana] Pulsares ANFT – Estatística aplicada
+### [Concluindo] Pulsares ANFT – Estatística aplicada
 Estudo estatistico de 4.351 pulsares do catálogo ATNF. Investigação da distribuição das variaveis e suas relaçoes, com destaque para a identificação de distribuição bimodal, revelando duas populações distintas de pulsares.
 > 🔗 [Link em breve]
 
@@ -41,5 +41,5 @@ Contagem de usuários por etapa (pv → fav → cart → buy). Identificação d
 
 ## 💡 Além dos dados
 
-Projetos interdisciplinares com arte ASCII e mixed media. Minha foto de perfil aqui é uma flor transformada em ASCII.
-> [Em breve]
+Projetos interdisciplinares com arte digital e mixed media.   
+> 🔗 [Link em breve]
