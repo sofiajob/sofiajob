@@ -9,9 +9,7 @@ sofiafjob@gmail.com
 
 ## 👤 Sobre mim
 
-Do zero ao insight, identifico gargalos e oportunidades por meio dos dados.
-
-🇨🇳 Estudei mandarim no Instituto Confúcio (UFBA). Ali, ampliei minha visão sobre como diferentes realidades se organizam e se comunicam. Fora da sala de aula, percebi que assim como a língua, os dados têm o poder de conectar mercados, traduzir contextos e expor padrões culturais. Hoje enxergo a análise de dados como uma ponte entre culturas, negócios e decisões globais.
+🇨🇳 Estudei mandarim no Instituto Confúcio (UFBA) e ampliei minha visão sobre como diferentes realidades se organizam. Percebi que, assim como a língua, os dados têm o poder de conectar mercados, traduzir contextos e expor padrões culturais. Hoje, enxergo a análise de dados como uma ponte entre culturas, negócios e decisões globais.
 
 ---
 
