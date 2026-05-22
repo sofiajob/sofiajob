@@ -21,7 +21,7 @@ Do zero ao insight, identifico gargalos e oportunidades por meio dos dados.
 Análise exploratória de 100k+ pedidos respondendo perguntas de negócio (sazonalidade, ticket médio, atrasos por região, top categorias). Dashboard em Power BI.
 
 ### 🔗 [Link em breve] Pulsares ANFT – Estatística aplicada
-Estudo estatistico de 4.351 pulsares do catálogo ATNF. Investigação da distribuição das variaveis e suas relaçoes, com destaque para a identificação de distribuição bimodal, revelando duas populações distintas de pulsares.
+Estudo estatistico de 4.351 pulsares da versão 2.7.0 do ATNF Pulsar Catalogue. Investigação da distribuição das variaveis e suas relações, com destaque para a identificação de distribuição bimodal, revelando duas populações distintas de pulsares.
 
 ### 🔗 [Link em breve] Taobao – Funil de Conversão e Análise Temporal 
 Contagem de usuários por etapa (pv → fav → cart → buy). Identificação da taxa de conversão entre etapas e maior ponto de abandono. Identificação de padrões de conversão e momentos de maior engajamento.
