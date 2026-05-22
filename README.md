@@ -18,7 +18,7 @@ sofiafjob@gmail.com
 ### 🔗 [Olist - Exploratory Data Analysis & Dashboard](https://github.com/sofiajob/OLIST-ExploratoryDataAnalysis-Dashboard)
 > Análise exploratória de 100k+ pedidos respondendo perguntas de negócio (sazonalidade, ticket médio, atrasos por região, top categorias). Dashboard em Power BI.
 >
-> `Python` `Pandas` `Power BI`
+> `Python` `Pandas` `SQLAlchemy` `Power BI`
 
 ### 🔗 [ATNF Pulsar Catalogue Analysis – Statistical Analysis & EDA](https://github.com/sofiajob/ATNF-pulsar-catalogue-analysis)
 > Estudo estatístico de 4.351 pulsares da versão 2.7.0 do ATNF Pulsar Catalogue. Investigação da distribuição das variáveis e suas relações, com destaque para a identificação de distribuição bimodal, revelando duas populações distintas de pulsares.
