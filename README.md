@@ -1,6 +1,6 @@
 # Olá! Sou Sofia Job
 
-**Análise de Dados** | EDA, Estatística | Ciência da Informação – UFSC
+**Analista de Dados** | EDA, Estatística | Ciência da Informação – UFSC
 
 sofiafjob@gmail.com
 📍 Brasil
