@@ -25,6 +25,12 @@ sofiafjob@gmail.com
 >
 > `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn`
 
+### 🔗 Panorama das Exportações brasileiras (2025) - ETL & Dashboard
+> Análise de 1,7M registros do Comex Stat (MDIC) identificando especialização regional, dependência da China e oportunidades logísticas para produtos de alto valor agregado.
+>
+> `Power Query` `Power BI` `Data Modeling` `Python` `Pandas`
+
+
 ### 🔗 [em breve] Taobao – Funil de Conversão e Análise Temporal 
 > Contagem de usuários por etapa (pv → fav → cart → buy). Identificação da taxa de conversão entre etapas e maior ponto de abandono. Identificação de padrões de conversão e momentos de maior engajamento.
 
