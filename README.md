@@ -25,8 +25,8 @@ sofiafjob@gmail.com
 >
 > `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn`
 
-### 🔗 [em breve] Panorama das Exportações Brasileiras (2025) – ETL, Dashboard & Segmentação com ML
-> Análise de 1,7M registros do Comex Stat (MDIC) identificando especialização regional, dependência da China e oportunidades logísticas. Segmentação de estados e países com K-Means e DBSCAN para identificação de perfis de exportação.
+### 🔗 [em breve] Panorama das Exportações Brasileiras (2025) – ETL & Dashboard
+> Análise de 1,7M registros do Comex Stat (MDIC) identificando especialização regional, dependência da China e oportunidades logísticas.
 >
 > `Power Query` `Power BI` `Data Modeling` `Python` `Pandas` `Scikit-learn` `K-Means` `DBSCAN`
 
