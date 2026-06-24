@@ -1,6 +1,6 @@
 # Olá! Sou Sofia Job
 
-**Analista de Dados** | EDA, Estatística | Ciência da Informação – UFSC
+**Analista de Dados** | EDA, Estatística 
 
 sofiafjob@gmail.com
 📍 Brasil
@@ -8,6 +8,7 @@ sofiafjob@gmail.com
 ---
 
 ## 👤 Sobre mim
+Estudante no primeiro semestre de ciência da informação na UFSC.
 
 🇨🇳 Estudei mandarim no Instituto Confúcio (UFBA) e ampliei minha visão sobre como diferentes realidades se organizam. Percebi que, assim como a língua, os dados têm o poder de conectar mercados, traduzir contextos e expor padrões culturais. Hoje, enxergo a análise de dados como uma ponte entre culturas, negócios e decisões globais.
 
@@ -41,6 +42,3 @@ sofiafjob@gmail.com
 ![Seaborn](https://img.shields.io/badge/Seaborn-388E8E?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiajob&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiajob)](https://github.com/sofiajob/github-readme-stats)
