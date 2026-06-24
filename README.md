@@ -41,3 +41,6 @@ sofiafjob@gmail.com
 ![Seaborn](https://img.shields.io/badge/Seaborn-388E8E?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiajob&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiajob)](https://github.com/sofiajob/github-readme-stats)
