@@ -29,7 +29,7 @@ Estudante no primeiro semestre de ciência da informação na UFSC com foco em
 ### 🔗 [em breve] Panorama das Exportações Brasileiras (2025) – ETL & Dashboard
 > Análise de 1,7M registros do Comex Stat (MDIC) identificando especialização regional, dependência da China e oportunidades logísticas.
 >
-> `Power Query` `Power BI` `Data Modeling` `Python` `Pandas` `Scikit-learn` `K-Means` `DBSCAN`
+> `Power Query` `Power BI` `Data Modeling` `Python` `Pandas`
 
 ---
 
