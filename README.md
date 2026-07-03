@@ -7,14 +7,14 @@ sofiafjob@gmail.com
 
 ---
 
-## 👤 Sobre mim
+## Sobre mim
 Estudante no primeiro semestre de ciência da informação na UFSC com foco em análise de dados e business intelligence
 
 🇨🇳 Estudei mandarim no Instituto Confúcio (UFBA) e ampliei minha visão sobre como diferentes realidades se organizam. Percebi que, assim como a língua, os dados têm o poder de conectar mercados, traduzir contextos e expor padrões culturais. Hoje, enxergo a análise de dados como uma ponte entre culturas, negócios e decisões globais.
 
 ---
 
-## 📊 Projetos
+## Projetos
 
 ### 🔗 [Olist - Exploratory Data Analysis & Dashboard](https://github.com/sofiajob/OLIST-ExploratoryDataAnalysis-Dashboard)
 > Análise exploratória de 100k+ pedidos respondendo perguntas de negócio (sazonalidade, ticket médio, atrasos por região, top categorias). Dashboard em Power BI.
@@ -33,7 +33,7 @@ Estudante no primeiro semestre de ciência da informação na UFSC com foco em a
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
