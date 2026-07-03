@@ -1,6 +1,6 @@
 # Olá! Sou Sofia Job
 
-**Analista de Dados** | EDA, Estatística 
+**Analista de Dados** | EDA, Estatística, BI
 
 sofiafjob@gmail.com
 📍 Brasil
@@ -8,7 +8,7 @@ sofiafjob@gmail.com
 ---
 
 ## 👤 Sobre mim
-Estudante no primeiro semestre de ciência da informação na UFSC com foco em 
+Estudante no primeiro semestre de ciência da informação na UFSC com foco em análise de dados e business intelligence
 
 🇨🇳 Estudei mandarim no Instituto Confúcio (UFBA) e ampliei minha visão sobre como diferentes realidades se organizam. Percebi que, assim como a língua, os dados têm o poder de conectar mercados, traduzir contextos e expor padrões culturais. Hoje, enxergo a análise de dados como uma ponte entre culturas, negócios e decisões globais.
 
