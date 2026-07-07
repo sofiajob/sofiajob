@@ -16,20 +16,20 @@ Estudante no primeiro semestre de ciência da informação na UFSC com foco em a
 
 ## Projetos
 
-### 🔗 [Olist - Exploratory Data Analysis & Dashboard](https://github.com/sofiajob/OLIST-ExploratoryDataAnalysis-Dashboard)
-> Análise exploratória de 100k+ pedidos respondendo perguntas de negócio (sazonalidade, ticket médio, atrasos por região, top categorias). Dashboard em Power BI.
+### 🔗 [Panorama das Exportações Brasileiras (2025) – ETL & Dashboard](https://github.com/sofiajob/brazilian-exports-overview-2025)
+> Análise de 1,7M registros do Comex Stat (MDIC) identificando especialização regional, dependência da China e oportunidades logísticas.
 >
-> `Python` `Pandas` `SQLAlchemy` `Power BI`
+> `Power Query` `Power BI` `Data Modeling` `Python` `Pandas`
 
 ### 🔗 [ATNF Pulsar Catalogue Analysis – Statistical Analysis & EDA](https://github.com/sofiajob/ATNF-pulsar-catalogue-analysis)
 > Estudo estatístico de 4.351 pulsares da versão 2.7.0 do ATNF Pulsar Catalogue. Investigação da distribuição das variáveis e suas relações, com destaque para a identificação de distribuição bimodal, revelando duas populações distintas de pulsares.
 >
 > `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn`
 
-### 🔗 [Panorama das Exportações Brasileiras (2025) – ETL & Dashboard](https://github.com/sofiajob/brazilian-exports-overview-2025)
-> Análise de 1,7M registros do Comex Stat (MDIC) identificando especialização regional, dependência da China e oportunidades logísticas.
+### 🔗 [Olist - Exploratory Data Analysis & Dashboard](https://github.com/sofiajob/OLIST-ExploratoryDataAnalysis-Dashboard)
+> Análise exploratória de 100k+ pedidos respondendo perguntas de negócio (sazonalidade, ticket médio, atrasos por região, top categorias). Dashboard em Power BI.
 >
-> `Power Query` `Power BI` `Data Modeling` `Python` `Pandas`
+> `Python` `Pandas` `SQLAlchemy` `Power BI`
 
 ---
 
