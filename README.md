@@ -16,7 +16,7 @@ Estudante no primeiro semestre de ciência da informação na UFSC com foco em a
 
 ## Projetos
 
-### 🔗 [Panorama das Exportações Brasileiras (2025) – ETL & Dashboard](https://github.com/sofiajob/brazilian-exports-overview-2025)
+### 🔗 [Brazilian Exports Overview (2025) – ETL, Data Analysis & Dashboard](https://github.com/sofiajob/brazilian-exports-overview-2025)
 > Análise de 1,7M registros do Comex Stat (MDIC) revelando a concentração de 52,5% das exportações na China, o domínio do modal marítimo (97,5% do peso) e as assimetrias regionais entre SP (receita), MG/PA (volume) e MT (ticket médio). Dashboard em Power BI para identificação de oportunidades de diversificação de mercados.
 >
 > `Power Query` `Power BI` `Data Modeling` `Python` `Pandas`
