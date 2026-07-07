@@ -26,7 +26,7 @@ Estudante no primeiro semestre de ciência da informação na UFSC com foco em a
 >
 > `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn`
 
-### 🔗 [Olist - Exploratory Data Analysis & Dashboard](https://github.com/sofiajob/OLIST-ExploratoryDataAnalysis-Dashboard)
+### 🔗 [Olist – Exploratory Data Analysis & Dashboard](https://github.com/sofiajob/OLIST-ExploratoryDataAnalysis-Dashboard)
 > Análise exploratória de 100k+ pedidos respondendo perguntas de negócio (sazonalidade, ticket médio, atrasos por região, top categorias). Dashboard em Power BI.
 >
 > `Python` `Pandas` `SQLAlchemy` `Power BI`
