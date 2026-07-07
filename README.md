@@ -26,7 +26,7 @@ Estudante no primeiro semestre de ciência da informação na UFSC com foco em a
 >
 > `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn`
 
-### 🔗 [em breve] Panorama das Exportações Brasileiras (2025) – ETL & Dashboard
+### 🔗 [Panorama das Exportações Brasileiras (2025) – ETL & Dashboard](https://github.com/sofiajob/brazilian-exports-overview-2025)
 > Análise de 1,7M registros do Comex Stat (MDIC) identificando especialização regional, dependência da China e oportunidades logísticas.
 >
 > `Power Query` `Power BI` `Data Modeling` `Python` `Pandas`
