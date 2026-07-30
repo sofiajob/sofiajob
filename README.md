@@ -10,7 +10,7 @@ sofiafjob@gmail.com
 ## Sobre mim
 Estudante no primeiro semestre de ciência da informação na UFSC com foco em análise de dados e business intelligence
 
-🇨🇳 Estudei mandarim no Instituto Confúcio (UFBA) e ampliei minha visão sobre como diferentes realidades se organizam. Percebi que, assim como a língua, os dados têm o poder de conectar mercados, traduzir contextos e expor padrões culturais. Hoje, enxergo a análise de dados como uma ponte entre culturas, negócios e decisões globais.
+Além das ferramentas, 🇨🇳 estudo mandarim no Instituto Confúcio UNICAMP, o que me permite enxergar conexões entre diferentes realidades culturais e de mercado. Meu objetivo é aplicar minha capacidade analítica para identificar padrões em dados que conectem mercados, culturas e oportunidades de negócio.
 
 ---
 
