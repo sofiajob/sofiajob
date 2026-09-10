@@ -1,6 +1,6 @@
 # Olá! Sou Sofia Job
 
-**Analista de Dados** | EDA, Estatística, BI
+**Data Analyst** | SQL • Python • BI • Data Modeling
 
 sofiafjob@gmail.com
 📍 Brasil
