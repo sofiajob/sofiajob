@@ -1,9 +1,9 @@
 # Olá! Sou Sofia Job
-## **Data Analyst** | Python • Pandas • Power BI • Data Modeling • Statistics • SQL
+> **Data Analyst** | Python • Pandas • Power BI • Data Modeling • Statistics • SQL
 
-Estudante de **Ciência da Informação** na **UFSC** com foco em análise de dados e business intelligence
+### Estudante de **Ciência da Informação** na **UFSC** com foco em análise de dados e business intelligence
 
-Além das ferramentas, 🇨🇳 estudo mandarim no Instituto Confúcio UNICAMP, o que me permite enxergar conexões entre diferentes realidades culturais e de mercado. Meu objetivo é aplicar minha capacidade analítica para identificar padrões em dados que conectem mercados, culturas e oportunidades de negócio.
+### Além das ferramentas, 🇨🇳 estudo mandarim no Instituto Confúcio UNICAMP, o que me permite enxergar conexões entre diferentes realidades culturais e de mercado. Meu objetivo é aplicar minha capacidade analítica para identificar padrões em dados que conectem mercados, culturas e oportunidades de negócio.
 
 ---
 
