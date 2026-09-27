@@ -1,5 +1,5 @@
 # Olá! Sou Sofia Job
-## **Data Analyst** | SQL • Python • Pandas • Power BI • Data Modeling • Statistics
+## **Data Analyst** | Python • Pandas • Power BI • Data Modeling • Statistics • SQL
 
 Estudante de **Ciência da Informação** na **UFSC** com foco em análise de dados e business intelligence
 
