@@ -10,12 +10,12 @@
 ## Projects
 
 ### 🔗 [Brazilian Exports Overview (2025) – ETL, Data Analysis & Dashboard](https://github.com/sofiajob/brazilian-exports-overview-2025)
-> Análise de 1,7M registros do Comex Stat (MDIC) revelando a concentração de 52,5% das exportações na China, o domínio do modal marítimo (97,5% do peso) e as assimetrias regionais entre SP (receita), MG/PA (volume) e MT (ticket médio). Dashboard em Power BI para identificação de oportunidades de diversificação de mercados.
+> Análise de 1,7 milhão de registros do Comex Stat (MDIC) para investigar padrões das exportações brasileiras. Os resultados evidenciaram a concentração de 52,5% do valor exportado na China, a predominância do modal marítimo (97,5% do peso exportado) e diferenças regionais entre receita, volume e ticket médio. O projeto inclui tratamento e validação dos dados, modelagem relacional e dashboard interativo em Power BI.
 >
 > `Power Query` `Power BI` `Data Modeling` `Python` `Pandas`
 
 ### 🔗 [ATNF Pulsar Catalogue Analysis – Statistical Analysis & EDA](https://github.com/sofiajob/ATNF-pulsar-catalogue-analysis)
-> Estudo estatístico de 4.351 pulsares da versão 2.7.0 do ATNF Pulsar Catalogue. Investigação da distribuição das variáveis e suas relações, com destaque para a identificação de distribuição bimodal, revelando duas populações distintas de pulsares.
+> Análise exploratória e estatística de 4.351 pulsares do ATNF Pulsar Catalogue (v2.7.0), investigando distribuições, variabilidade e relações entre variáveis. A análise identificou indícios de uma distribuição bimodal em variáveis selecionadas, levantando a hipótese de duas populações distintas de pulsares.
 >
 > `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn`
 
