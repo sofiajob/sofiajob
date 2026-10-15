@@ -1,5 +1,6 @@
-# Olá! Sou Sofia Job
-**Data Analyst** | Python • SQL • Power BI • Data Modeling • Statistics
+<p align="center">
+  <img src="github-banner.png" alt="Sofia Job — Data Analysis & Business Intelligence" width="100%">
+</p>
 
 Estudante de **Ciência da Informação na UFSC**, com foco em análise de dados, estatística aplicada e Business Intelligence. Desenvolvo projetos independentes para investigar padrões, extrair insights e transformar dados em informações úteis para a tomada de decisão.
 
