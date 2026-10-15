@@ -1,13 +1,13 @@
 # Olá! Sou Sofia Job
-> **Data Analyst** | Python • Pandas • Power BI • Data Modeling • Statistics • SQL
+**Data Analyst** | Python • SQL • Power BI • Data Modeling • Statistics
 
-### Estudante de **Ciência da Informação** na **UFSC** com foco em análise de dados e business intelligence
+Estudante de **Ciência da Informação na UFSC**, com foco em análise de dados, estatística aplicada e Business Intelligence. Desenvolvo projetos independentes para investigar padrões, extrair insights e transformar dados em informações úteis para a tomada de decisão.
 
-### Além das ferramentas, 🇨🇳 estudo mandarim no Instituto Confúcio UNICAMP, o que me permite enxergar conexões entre diferentes realidades culturais e de mercado. Meu objetivo é aplicar minha capacidade analítica para identificar padrões em dados que conectem mercados, culturas e oportunidades de negócio.
+Além da área de dados, estudo 🇨🇳 **mandarim no Instituto Confúcio UNICAMP**, ampliando minha perspectiva sobre diferentes contextos culturais e econômicos. Meu objetivo é aplicar a análise de dados para identificar padrões e conexões entre mercados, culturas e oportunidades de negócio.
 
 ---
 
-## Projects
+## Projetos em destaque
 
 ### 🔗 [Brazilian Exports Overview (2025) – ETL, Data Analysis & Dashboard](https://github.com/sofiajob/brazilian-exports-overview-2025)
 > Análise de 1,7 milhão de registros do Comex Stat (MDIC) para investigar padrões das exportações brasileiras. Os resultados evidenciaram a concentração de 52,5% do valor exportado na China, a predominância do modal marítimo (97,5% do peso exportado) e diferenças regionais entre receita, volume e ticket médio. O projeto inclui tratamento e validação dos dados, modelagem relacional e dashboard interativo em Power BI.
@@ -21,13 +21,10 @@
 
 ---
 
-## Tech Stack
+## Tecnologias e competências
 
-### Data Analysis
-Python · Pandas · NumPy · SQL
+**Análise de dados:** Python, Pandas, NumPy, SQL, estatística aplicada e análise exploratória de dados (EDA)
 
-### BI & Visualization
-Power BI · Power Query · Matplotlib
+**BI e visualização:** Power BI, Power Query, Matplotlib e Seaborn
 
-### Data & Databases
-MySQL · Relational Modeling · ETL · Data Modeling
+**Bancos de dados:** MySQL, modelagem relacional e consultas SQL
