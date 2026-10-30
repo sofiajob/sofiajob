@@ -20,7 +20,7 @@ Analysis of 1.7 million records from Brazil's Comex Stat database (MDIC) to inve
 
 ### [ATNF Pulsar Catalogue Analysis - Statistical Analysis & EDA](https://github.com/sofiajob/ATNF-pulsar-catalogue-analysis)
 
-Exploratory and statistical analysis of 4,351 pulsars from the ATNF Pulsar Catalogue (v2.7.0), investigating distributions, variability, and relationships between variables. The analysis identified evidence of bimodal distributions in selected variables, raising the hypothesis of two distinct pulsar populations.
+Exploratory and statistical analysis of 4,351 pulsars from the ATNF Pulsar Catalogue (v2.7.0), investigating distributions, variability, and relationships between variables. The analysis identified evidence of bimodal distributions in selected variables.
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
