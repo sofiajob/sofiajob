@@ -4,9 +4,9 @@
 
 ## About
 
-Estudante de **Ciência da Informação na UFSC**, com foco em análise de dados, estatística aplicada e Business Intelligence. Desenvolvo projetos independentes para investigar padrões, extrair insights e transformar dados em informações úteis para a tomada de decisão.
+**Information Science student at the Federal University of Santa Catarina (UFSC)** , focused on data analysis, applied statistics, and Business Intelligence. I develop independent projects to investigate patterns, derive insights, and transform data into useful information for decision-making.
 
-Além da área de dados, estudo 🇨🇳 **mandarim no Instituto Confúcio UNICAMP**, ampliando minha perspectiva sobre diferentes contextos culturais e econômicos. Meu objetivo é aplicar a análise de dados para identificar padrões e conexões entre mercados, culturas e oportunidades de negócio.
+Alongside my studies in data, I am learning Mandarin at the **Confucius Institute at UNICAMP**, broadening my perspective on different cultural and economic contexts. My goal is to apply data analysis to identify patterns and connections between markets, cultures, and business opportunities.
 
 ---
 
@@ -14,13 +14,13 @@ Além da área de dados, estudo 🇨🇳 **mandarim no Instituto Confúcio UNICA
 
 ### [Brazilian Exports Overview (2025) - Data Analysis & Dashboard](https://github.com/sofiajob/brazilian-exports-overview-2025)
 
-Análise de 1,7 milhão de registros do Comex Stat (MDIC) para investigar padrões das exportações brasileiras. Os resultados evidenciaram a concentração de 52,5% do valor exportado na China, a predominância do modal marítimo (97,5% do peso exportado) e diferenças regionais entre receita, volume e ticket médio. O projeto inclui tratamento e validação dos dados, modelagem relacional e dashboard interativo em Power BI.
+Analysis of 1.7 million records from Brazil's Comex Stat database (MDIC) to investigate patterns in Brazilian exports. The findings highlighted China's 52.5% share of export value, the predominance of maritime transport (97.5% of exported weight), and regional differences in export value, volume, and average export value per kilogram. The project includes data cleaning and validation, relational modeling, and an interactive Power BI dashboard.
 
 `Python` `Pandas` `Power Query` `Power BI` `Data Modeling`
 
 ### [ATNF Pulsar Catalogue Analysis - Statistical Analysis & EDA](https://github.com/sofiajob/ATNF-pulsar-catalogue-analysis)
 
-Análise exploratória e estatística de 4.351 pulsares do ATNF Pulsar Catalogue (v2.7.0), investigando distribuições, variabilidade e relações entre variáveis. A análise identificou indícios de uma distribuição bimodal em variáveis selecionadas, levantando a hipótese de duas populações distintas de pulsares.
+Exploratory and statistical analysis of 4,351 pulsars from the ATNF Pulsar Catalogue (v2.7.0), investigating distributions, variability, and relationships between variables. The analysis identified evidence of bimodal distributions in selected variables, raising the hypothesis of two distinct pulsar populations.
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
@@ -37,5 +37,7 @@ Análise exploratória e estatística de 4.351 pulsares do ATNF Pulsar Catalogue
 ---
 
 <p align="center">
-  <i>Exploring data, discovering patterns, connecting perspectives.</i>
+  <i>"Though small as a grain of rice, the moss flower still learns to bloom like the peony."</i>
+  <br>
+  苔花如米小，也学牡丹开。
 </p>
